@@ -1,17 +1,12 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          Revelator
+description:    "Перевод подкаста Revelator на русский язык"
+url:            "https://avghst.github.io/revelator"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Лена Август
+  email:        avghstl@gmail.com
 
 # Build settings
 markdown:       kramdown
